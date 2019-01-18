@@ -30,7 +30,7 @@ true_values=None, false_values=None, engine=None, squeeze=False, **kwds)
 
 # I'll only show the most used parameters
 
-excel_file_to_be_uploaded = 'C:/Users/a124020/.spyder-py3/Dataset_Titanic.xlsx'
+excel_file_to_be_uploaded = '...../Dataset_Titanic.xlsx'
 '''
 "C:\Users\a124020\.spyder-py3\dtypes.xlsx"
 Windows will by default have backslash, you will need to change them to forward for python to understand the path
