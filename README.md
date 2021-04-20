@@ -9,6 +9,7 @@ This is not the best for sure but should help to start your journey, I am workin
 
 Happy Learning!
 
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/launch?url=https://github.com/ank0409/Ditching-Excel-for-Python/blob/master/Ditching%20Excel%20for%20Python!.ipynb)
 
 If at all my tutorial helped you, would you buy me a Ko-fi!
 <br>[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/I2I0PGQA)
